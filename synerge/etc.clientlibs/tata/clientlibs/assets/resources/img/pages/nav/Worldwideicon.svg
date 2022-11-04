@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Worldwide icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TATA-Mainmenu-&amp;-Footer" transform="translate(-1152.000000, -39.000000)" stroke="#FFFFFF">
+            <g id="TATA-Mainmenu">
+                <g id="Menu">
+                    <g id="Worldwide-icon" transform="translate(1153.000000, 40.000000)">
+                        <circle id="Oval" cx="10" cy="10" r="10"></circle>
+                        <path d="M10.4814041,0.0998777868 C7.04121628,2.81463775 5.32112236,6.21572047 5.32112236,10.303126 C5.32112236,14.3905314 7.04121628,17.5846379 10.4814041,19.8854454" id="Path-2"></path>
+                        <path d="M15.4814041,0.0998777868 C12.0412163,2.81463775 10.3211224,6.21572047 10.3211224,10.303126 C10.3211224,14.3905314 12.0412163,17.5846379 15.4814041,19.8854454" id="Path-2" transform="translate(12.901263, 9.992662) scale(-1, 1) translate(-12.901263, -9.992662) "></path>
+                        <path d="M10.5,0.5 L10.5,19.5262976" id="Line-8" stroke-linecap="square"></path>
+                        <path d="M19.5,10.5 L0.5,10.5" id="Line-8" stroke-linecap="square" transform="translate(10.000000, 10.500000) scale(-1, -1) translate(-10.000000, -10.500000) "></path>
+                        <path d="M18.5,5.5 L1.5,5.5" id="Line-8" stroke-linecap="square" transform="translate(10.000000, 5.500000) scale(-1, -1) translate(-10.000000, -5.500000) "></path>
+                        <path d="M18.158877,15.5 L1.98681382,15.5" id="Line-8" stroke-linecap="square" transform="translate(10.072845, 15.500000) scale(-1, -1) translate(-10.072845, -15.500000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
